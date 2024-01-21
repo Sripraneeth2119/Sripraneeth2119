@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sripraneeth2119/Sripraneeth2119/blob/main/sripraneeth.png)
 
 <h1 align="center">Hi , I'm Sripraneeth ✨</h1>
 <h3 align="center">Computer Vision Engineer Intern @ER</h3>
